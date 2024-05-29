@@ -222,7 +222,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-color: #e05306;
+    background: linear-gradient(to right, rgb(10, 70, 10), rgb(76, 240, 76));
     height: auto;
     padding-top: 15px;
     padding-bottom: 5px;
@@ -253,53 +253,8 @@ button {
 .banner_section {
     width: 100%;
     float: left;
-    background-color: #e05306;
+    background: linear-gradient(to right, rgb(10, 70, 10), rgb(76, 240, 76));
     height: auto;
-}
-
-#carouselExampleIndicators a.carousel-control-prev {
-    position: absolute;
-    left: 63%;
-    top: 180px;
-    background-color: #fff;
-    color: #000;
-}
-
-#carouselExampleIndicators .carousel-control-prev,
-#carouselExampleIndicators .carousel-control-next {
-    width: 65px;
-    height: 65px;
-    background: #fff;
-    opacity: 1;
-    font-size: 30px;
-    color: #091e30;
-    border-radius: 100%;
-}
-
-.carousel-control-prev-icon {
-    background-image: url(../images/left-aero.png);
-}
-
-#carouselExampleIndicators a.carousel-control-next {
-    position: absolute;
-    left: 64%;
-    top: 270px;
-    background-color: #1a1824;
-}
-
-#carouselExampleIndicators .carousel-control-prev,
-#carouselExampleIndicators .carousel-control-next {
-    width: 65px;
-    height: 65px;
-    background: #fff;
-    opacity: 1;
-    font-size: 30px;
-    color: #091e30;
-    border-radius: 100%;
-}
-
-.carousel-control-next-icon {
-    background-image: url(../images/right-aero.png);
 }
 
 .toggle_menu {
