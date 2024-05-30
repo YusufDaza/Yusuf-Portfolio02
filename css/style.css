@@ -797,7 +797,7 @@ textarea#comment.massage-bt::placeholder {
 .copyright_section {
     width: 100%;
     float: left;
-    background-color: #e05306;
+    background: linear-gradient(to right, rgb(10, 70, 10), rgb(76, 240, 76));
 }
 
 .copyright_text {
