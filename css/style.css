@@ -514,9 +514,10 @@ button {
 .clients_section {
     width: 100%;
     float: left;
-    background-image: url(../images/img-5.png);
+    background-color: rgb(155, 243, 183);
     height: auto;
     background-size: 100%;
+    
 }
 
 .our_text {
