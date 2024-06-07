@@ -37,7 +37,7 @@ html {
 }
 
 body {
-    color: #666666;
+    color: #fff8f8;
     font-size: 14px;
     font-family: Raleway;
     line-height: 1.80857;
@@ -186,7 +186,7 @@ img {
 
 .form-control:focus {
     border-color: #ffffff !important;
-    box-shadow: 0 0 0 .2rem rgba(255, 255, 255, .25);
+    box-shadow: 0 0 0 .2rem white;
 }
 
 .navbar-form input {
@@ -624,7 +624,7 @@ button {
 .contact_section {
     width: 100%;
     float: left;
-    background-color: #e05306;
+    background-color: #000000;
     height: auto;
 }
 
