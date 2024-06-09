@@ -1,0 +1,15 @@
+.slider {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Create 3 equal columns */
+    gap: 10px; /* Space between the images */
+    justify-items: center; /* Center images horizontally */
+    align-items: center; /* Center images vertically */
+    padding: 50px; /* Add padding around the grid */
+    background-color: #000000; /* Background color for visibility */
+  }
+  
+  .slider img {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+  }
+  
